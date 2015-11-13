@@ -1,0 +1,17 @@
+#getforecast {
+	width: 100px;
+	<!-- border: 1px solid blue; -->
+}
+
+.fontawesomeicons {
+	width: 100px;
+	<!-- border: 1px solid blue; -->
+}
+
+.fontawesomeicons .fa {
+	vertical-align: baseline;
+	display: inline-block;
+	<!-- border: 1px solid blue; -->
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
